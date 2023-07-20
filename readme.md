@@ -28,3 +28,6 @@ No doubt these Pikomon are *so* awesome that fans will come *swarming* once this
 > 
 
 Before you even think about coding, discuss and plan this project with your team. The first step of planning is to build a wireframe, this way you all have a clear goal in mind of what you’re building. Don’t worry about what colors or fonts you will use in the wireframe. Just create a general mockup of what the marketing team has described.
+
+### Wireframe
+[Figma](https://www.figma.com/file/afMfMZnqj1G2lOLysHjJiM/Team-2-Pikodex?type=design&node-id=0-1&mode=design&t=taN7L6xEWwmUtmvt-0)
