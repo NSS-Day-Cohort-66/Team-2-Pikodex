@@ -70,6 +70,14 @@ const database = [
         category: 'Mischievous',
         abilities: 'Master of Pranks',
         weakness: 'Close Talkers'
+    }, 
+    {
+        id: 10,
+        name: 'Bob',
+        imageUrl: 'assets/skunch.png',
+        category: 'Mischievous',
+        abilities: 'Master of Pranks',
+        weakness: 'AARP commercials'
     }
 ];
 
