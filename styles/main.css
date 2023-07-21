@@ -62,8 +62,10 @@ img {
 .centerText {
     text-align: center;
 }
+
 .pikomon-card {
-    background-color: blueviolet;
+    background-color: blue;
     width: 20%;
     padding: 1rem;
 }
+
