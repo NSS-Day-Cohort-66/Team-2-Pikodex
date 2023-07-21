@@ -1,7 +1,10 @@
 body {
     background-color: #53A180;
 }
-
+img {
+    width: 11rem;
+    height: 11rem;
+}
 #title {
     text-align: center;
     font-family: copperplate;
