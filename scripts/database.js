@@ -72,3 +72,7 @@ const database = [
         weakness: 'Close Talkers'
     }
 ];
+
+export const getData = () => {
+    return database.database.map(database => ({...database}))
+}
